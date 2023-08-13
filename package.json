@@ -1,0 +1,30 @@
+{
+  "name": "cashcode-mvu-1024-nodejs",
+  "version": "0.0.1",
+  "description": "CashCode-MVU-1024 driver fo NodeJS",
+  "main": "cashcode-nodejs.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohlik/CashCode-NodeJS.git"
+  },
+  "keywords": [
+    "CashCode",
+    "MVU",
+    "1024",
+    "Node",
+    "JS",
+    "JavaScript"
+  ],
+  "author": "mohlik",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mohlik/CashCode-NodeJS/issues"
+  },
+  "homepage": "https://github.com/mohlik/CashCode-NodeJS#readme",
+  "dependencies": {
+    "serialport": "^11.0.1"
+  }
+}
